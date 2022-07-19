@@ -1,3 +1,4 @@
-
+service:
+  name: client
 server:
   port: 8090
